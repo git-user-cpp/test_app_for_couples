@@ -1,5 +1,5 @@
-# Test app for couples v1.0.0
-😃 red 😃
+# Test app for couples
+:heart_eyes: An app to your love :heart_eyes:
 
 ## ⚠️ LICENSE ⚠️
 MIT License
