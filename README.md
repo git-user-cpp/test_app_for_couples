@@ -36,4 +36,4 @@ SOFTWARE.
     cargo run
     ```
     
-5) 🌠 red
+5) 🌠 Enjoy testing =)
